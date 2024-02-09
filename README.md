@@ -26,7 +26,7 @@ I am an IAM Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :seedling: Exploring Blogging.
 
-- :zap: In my free time, I write articles and tutorials on [MIM and Beyong](https://suryendub.github.io).
+- :zap: In my free time, I write articles and tutorials on [MIM and BEYOND](https://suryendub.github.io).
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suryendub/)
 
