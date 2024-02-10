@@ -54,8 +54,8 @@ I am an IAM Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Conditional Access Policies for a Zero Trust Architecture Framework using Terraform and GitHub Actions](https://suryendub.github.io/2023-11-09-ca-zero-trust-terraform/)
-- [How to Implement API Authentication with OAuth using Entra ID](https://suryendub.github.io/2023-09-30-API-Authentication-with-OAuth-using-Entra-ID/)
-- [Just In Time Application Administration Using PIM in Microsoft Entra ID - A Step By Step Guide to Improving Security Posture](https://suryendub.github.io/2023-09-06-Just-In-Time-Access-To-Application-Admin-Using-MicrosoftEntraID-PIM/)
-- [MIM AND BEYOND](https://suryendub.github.io/)
+- [How to Use Directory Extension Attributes in Entra ID for Custom Claims, SCIM Provisioning and Dynamic Groups](https://suryendub.github.io/2024-02-08-directory-extension-attribute/)
+- [Automate Entra ID Application Creation and Access Management with Terraform and GitHub Actions](https://suryendub.github.io/2024-01-30-terraform-azuread-application/)
+- [Keep Your Dynamic Groups Compliant by Microsoft Graph Change Notifications and Azure Event Grid](https://suryendub.github.io/2024-01-18-Graph-Change-Notifications/)
+- [How to add claims from external systems in Entra ID token using the custom claims provider](https://suryendub.github.io/2024-01-05-Custom-Claims-Provider/)
 <!-- BLOG-POST-LIST:END -->
