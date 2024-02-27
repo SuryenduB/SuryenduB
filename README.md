@@ -54,8 +54,8 @@ I am an IAM Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Require Re-authentication for Registering Security Info &lpar;Adding Authentication Method&rpar; in Entra ID](https://suryendub.github.io/2024-02-27-RequireReAuthenticationForAddingAuthenticationMethods/)
 - [Require Sign-in Every time a user activates role membership in Entra ID](https://suryendub.github.io/2024-02-26-SignInEveryTimeRoleActivation/)
 - [Containerization using Docker for IIQ](https://suryendub.github.io/2024-02-18-containerization-iiq/)
 - [How to Use Directory Extension Attributes in Entra ID for Custom Claims, SCIM Provisioning and Dynamic Groups](https://suryendub.github.io/2024-02-08-directory-extension-attribute/)
-- [Automate Entra ID Application Creation and Access Management with Terraform and GitHub Actions](https://suryendub.github.io/2024-01-30-terraform-azuread-application/)
 <!-- BLOG-POST-LIST:END -->
