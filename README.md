@@ -54,8 +54,8 @@ I am an IAM Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying the Bulk Conversion of External Users to Internal Users in Entra ID - Using PowerShell and Graph API](https://suryendub.github.io/2024-03-06-Convert-External-Users-to-Internal/)
 - [How to add claims from external systems in Entra ID token using the custom claims provider](https://suryendub.github.io/2024-03-05-Azure-SPring-Clean-Custom-Claim-Provider/)
 - [Powershell Connector for EntraID](https://suryendub.github.io/2024-03-01-Powershell-Connector-for-EntraID/)
 - [Require Re-authentication for Registering Security Info &lpar;Adding Authentication Method&rpar; in Entra ID](https://suryendub.github.io/2024-02-27-RequireReAuthenticationForAddingAuthenticationMethods/)
-- [Require Sign-in Every time a user activates role membership in Entra ID](https://suryendub.github.io/2024-02-26-SignInEveryTimeRoleActivation/)
 <!-- BLOG-POST-LIST:END -->
