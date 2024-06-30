@@ -54,8 +54,8 @@ I am an IAM Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [AWS Cloud Resume Challenge](https://suryendub.github.io/2024-06-30-AWSCloudResumeChallenge/)
 - [Unlocking the Mysteries of the Entra PowerShell Connector, A Beginner’s Guide](https://suryendub.github.io/2024-03-29-PowershellConnectorForDummies/)
 - [Securely Manage Application SSO Claims with Claims Mapping Policies in Microsoft Entra](https://suryendub.github.io/2024-03-22-ClaimsMappingPolicy/)
 - [Simplifying the Bulk Conversion of External Users to Internal Users in Entra ID - Using PowerShell and Graph API](https://suryendub.github.io/2024-03-06-Convert-External-Users-to-Internal/)
-- [How to add claims from external systems in Entra ID token using the custom claims provider](https://suryendub.github.io/2024-03-05-Azure-SPring-Clean-Custom-Claim-Provider/)
 <!-- BLOG-POST-LIST:END -->
