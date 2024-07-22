@@ -22,7 +22,7 @@
 
 ### :woman_technologist: About Me :
 I am an IAM Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Berlin, Germany.
-- :telescope: I work  at Hellofresh SE in the IAM team.
+- :telescope: I work  at SwissKrono Tec Gmbh in the IAM team.
 
 - :seedling: Exploring Blogging.
 
