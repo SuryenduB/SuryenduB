@@ -54,8 +54,8 @@ I am an IAM Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [AWS CookBook 1.6 Connecting to EC2 Instances using AWS SSM Session Manager](https://suryendub.github.io/2024-07-28-aws-ec2-instance-using-ssm/)
 - [1.5 Delegating IAM Administrative Capabilities using Permission Boundaries](https://suryendub.github.io/2024-07-27-AWS-Cookbook-Delegating-IAM-Administrative-Capabilities-using-Permission-Boundaries/)
 - [AWS CookBook 1.3 Enforcing IAM User Password Policies in Your AWS Account](https://suryendub.github.io/2024-07-23-AWS-CookBook-Enforcing-IAM-User-Password-Policies-in-Your-AWS-Account/)
 - [Aws cookbook 1.1  creating and assuming an iam role for  developer access](https://suryendub.github.io/2024-07-21-AWS-CookBook-1.1-Creating-and-Assuming-an-IAM-Role-for-Developer-Access/)
-- [AWS Cloud Resume Challenge](https://suryendub.github.io/2024-06-30-AWSCloudResumeChallenge/)
 <!-- BLOG-POST-LIST:END -->
