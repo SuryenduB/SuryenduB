@@ -54,8 +54,8 @@ I am an IAM Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [AWS Cookbook 2.11 Peering Two VPCs Together](https://suryendub.github.io/2024-08-04-VPC-Peering/)
 - [AWS Cookbook 2.4 Connecting VPC to the Internet Using NAT Gateway](https://suryendub.github.io/2024-08-03-VPC-Route-NAT/)
 - [AWS Cookbook 2.2 Creating a Network Tier with Subnets and a Route Table in a VPC](https://suryendub.github.io/2024-08-02-VPC-Router/)
 - [AWS Cookbook 2.3 Connecting VPC to the Internet](https://suryendub.github.io/2024-08-02-VPC-Route-IGW/)
-- [AWS Cookbook 2.1 Defining your private virtual network in the Amazon Cloud](https://suryendub.github.io/2024-08-02-AWSVPC1/)
 <!-- BLOG-POST-LIST:END -->
