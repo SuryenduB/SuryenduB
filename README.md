@@ -50,13 +50,14 @@ I am an IAM Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryendub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <a href="https://github.com/suryendub/suryendub">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=suryendub&show_icons=true&theme=cobalt" />
 </a>
+
 <a href="https://github.com/suryendub/suryendub">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryendub&show_icons=true&theme=cobalt&hide=javascript,css" />
 </a>
+
 ---
 
 ### :writing_hand: Blog Posts :
