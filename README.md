@@ -54,11 +54,11 @@ I am an IAM Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### Some Numbers
 
-<a href="https://github.com/markti/markti">
+<a href="https://github.com/suryendub/suryendub">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=suryendub&show_icons=true&theme=cobalt" />
 </a>
-<a href="https://github.com/markti/markti">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markti&show_icons=true&theme=cobalt&hide=javascript,css" />
+<a href="https://github.com/suryendub/suryendub">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryendub&show_icons=true&theme=cobalt&hide=javascript,css" />
 </a>
 ---
 
