@@ -63,7 +63,7 @@ I am an IAM Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [External Collaboration Settings with Application Permissions](https://suryendub.github.io/2024-12-21-extCollaboration/)
-- [Using Maester and HRProvisioningTests to Unit Test Your HR DrivenProvisioning](https://suryendub.github.io/2024-12-21-Using-Maester-and-HRProvisioningTests-UnitTest-HR-DrivenProvisioning/)
+- [Using Maester and HRProvisioningTests to Unit Test Your HR-Driven Provisioning](https://suryendub.github.io/2024-12-21-Using-Maester-and-HRProvisioningTests-UnitTest-HR-DrivenProvisioning/)
 - [AWS Cookbook 2.11 Peering Two VPCs Together](https://suryendub.github.io/2024-08-04-VPC-Peering/)
 - [AWS Cookbook 2.4 Connecting VPC to the Internet Using NAT Gateway](https://suryendub.github.io/2024-08-03-VPC-Route-NAT/)
 <!-- BLOG-POST-LIST:END -->
